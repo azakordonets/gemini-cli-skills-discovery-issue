@@ -22,3 +22,12 @@ Now, I would expect that when I go to the `devl/python` directory and run `gemin
 Here's the screenshot:
 
 ![from_internal_folder](screenshots/from_internal_folder.png)
+
+| About Gemini CLI | |
+| --- | --- |
+| CLI Version | 0.24.0 |
+| Git Commit | 48ee9bb30 |
+| Model | auto-gemini-2.5 |
+| Sandbox | no sandbox |
+| OS | darwin |
+| Auth Method | OAuth |
